@@ -4,7 +4,7 @@
     android:orientation="vertical"
     xmlns:android="http://schemas.android.com/apk/res/android" >
 
-    <EditText
+    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
@@ -12,8 +12,8 @@
         android:textSize="35dp"
         android:layout_margin="30dp"/>
 
-    <TextView
-        android:id="@+id/register_Firstname"
+    <EditText
+        android:id="@+id/register_firstname"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="First Name"
@@ -23,7 +23,7 @@
         android:gravity="center"
         />
 
-    <TextView
+    <EditText
         android:id="@+id/register_lastname"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -34,7 +34,7 @@
         android:gravity="center"
         />
 
-    <TextView
+    <EditText
         android:id="@+id/register_username"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -45,7 +45,7 @@
         android:gravity="center"
         />
 
-    <TextView
+    <EditText
         android:id="@+id/register_password"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

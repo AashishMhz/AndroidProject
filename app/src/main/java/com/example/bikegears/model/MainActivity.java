@@ -1,7 +1,9 @@
-package com.example.bikegears;
+package com.example.bikegears.model;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.bikegears.R;
 
 public class MainActivity extends AppCompatActivity {
 
