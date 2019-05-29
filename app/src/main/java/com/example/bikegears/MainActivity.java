@@ -1,4 +1,4 @@
-package com.example.bikegears.model;
+package com.example.bikegears;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
