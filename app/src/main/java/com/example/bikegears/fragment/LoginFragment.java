@@ -12,7 +12,7 @@ import android.widget.EditText;
 
 import com.example.bikegears.R;
 
-public class login_fragment extends Fragment implements View.OnClickListener {
+public class LoginFragment extends Fragment implements View.OnClickListener {
     private EditText login_username, login_password;
     private Button login_btn;
 
